@@ -21,7 +21,7 @@ estDivisible()
 // En utilisant prompt
 // Using prompt
 
-const isDivisable = () => {
+const isDivisible = () => {
     const qst = prompt('Is this number divisible by 3 or 5?')
     const qstValue = parseInt(qst)
 
